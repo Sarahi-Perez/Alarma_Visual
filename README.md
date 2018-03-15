@@ -21,6 +21,6 @@ Software:
 - Programa Arduino: para realizar la programacion del Arduino UNO
 - fritzing: para realizar los esquemas del circuito.
 
-![Esquema del Circuito](https://github.com/Sarahi-Perez/Alarma_Visual/blob/master/Alarma_esquem%C3%A1tico.jpg "Esquema del circuito")
+![Esquema del Circuito](https://github.com/Sarahi-Perez/Alarma_Visual/blob/master/esquem%C3%A1tico.jpg "Esquema del circuito")
 
 ![Circuito con iman](https://github.com/Sarahi-Perez/Alarma_Visual/blob/master/CIrcuito%20cuando%20esta%20cerca%20el%20iman.jpg "Circuito cuando el iman esta cerca")
